@@ -45,7 +45,7 @@
                     };
                     angular.extend(
                         tableOpts,
-                        footable.options
+                        FooTable.options
                     );
                     angular.extend(
                         tableOpts,
